@@ -2,7 +2,7 @@ package chapter7;
 
 import java.util.Random;
 
-public class lotteryTicket {
+public class Arrays {
 
     public static final int LENGTH = 6;
     public static final int MAX_TICKET_NUMBER = 69;
